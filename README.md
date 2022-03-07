@@ -11,6 +11,8 @@ Se ha omitido la vista hacia arriba y hacia abajo, ya que, de lo contrario, la o
 
 References: Sound https://www.dl-sounds.com/royalty-free/space-loop/, processing.org/references, SpaceShip https://free3d.com/3d-model/hn48-flying-car-10381.html
 
+Gif: Taller Practica 4 (Data was too much)
+
 Autor: Dascha Blehm
 
 
